@@ -1,0 +1,32 @@
+{
+  "name": "generator-web-starter-kit",
+  "version": "0.1.0",
+  "description": "Yeoman generator for web-starter-kit",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "files": [
+    "app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudheerDev/generator-web-starter-kit.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "web-starter-kit",
+    "web",
+    "front-end"
+  ],
+  "author": "sudheerDev <sudheer.105@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudheerDev/generator-web-starter-kit/issues"
+  },
+  "homepage": "https://github.com/sudheerDev/generator-web-starter-kit#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.1"
+  }
+}
